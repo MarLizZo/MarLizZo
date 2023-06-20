@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Marco Cristofori, known also as LizZo. I'm currently a student at EPICODE, soon i'll be a Full-Stack Developer.
 Here are my skills.
-
+<br /><br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ Here are my skills.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-
+<br />
 
 - :computer: I can't live without my PC. I wonder how life was centuries ago.. maybe better maybe not..
 - 🔭 Space lover. My favourite hobby is to watch documentaries about space and the newest scientific discoveries. I always stay up to date with NASA/ESA missions. Will mankind walk on Mars in our lifetime?
