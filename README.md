@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Marco Cristofori, known also as LizZo. I'm currently a student at EPICODE, soon i'll be a Full-Stack Developer.
+#### I'm Marco Cristofori, known also as LizZo. I've ended my journey at EPICODE, now i'm a Full-Stack Developer.
 Here are my skills.
 <br /><br />
 
@@ -17,6 +17,7 @@ Here are my skills.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white")
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
