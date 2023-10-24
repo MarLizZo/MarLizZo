@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Marco Cristofori, known also as LizZo. I've ended my journey at EPICODE, now i'm a Full-Stack Developer.
+I'm Marco Cristofori, known also as LizZo. I've ended my journey at EPICODE, now i'm a Full-Stack Developer.
 Here are my skills.
 <br /><br />
 
